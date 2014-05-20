@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# fantastically count 17583,1007765,1025821,7004477,9006895
+# # fantastic appear in 345
 
 import sys
 

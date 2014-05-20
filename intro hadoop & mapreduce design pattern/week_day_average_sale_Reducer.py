@@ -1,5 +1,7 @@
 #!/usr/bin/python
-
+##
+## find average sale of each day 
+## Sunday 250
 
 
 import sys
